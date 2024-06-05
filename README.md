@@ -69,7 +69,7 @@ Hi there! I'm Shashwat Chahal, a passionate developer with a love for coding and
 
 <div align="center">
   
-  [![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maverick655&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maverick655&theme=dracula)]
 
 </div>
 
