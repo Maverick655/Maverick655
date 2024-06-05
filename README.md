@@ -1,6 +1,6 @@
 # Hey, I'm Shashwat Chahal! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=maverick655&color=violetblue)
+![Profile Views](https://komarev.com/ghpvc/?username=maverick655&color=blueviolet)
 
 ## About Me
 
