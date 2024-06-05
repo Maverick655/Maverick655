@@ -51,7 +51,7 @@ Hi there! I'm Shashwat Chahal, a passionate developer with a love for coding and
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=maverick655&layout=compact&theme=radical)](https://git.io/streak-stats)
 
-[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maverick655&layout=compact&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maverick655&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Hobbies & Interests
