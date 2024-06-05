@@ -64,15 +64,12 @@ Hi there! I'm Shashwat Chahal, a passionate developer with a love for coding and
   </table>
 </div>
 
-<div align="center">
-
-  ## LeetCode Stats
-  
-   <img src = "https://leetcard.jacoblin.cool/shashwat4587?site=us">
+<p align="center">
 
   ![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maverick655&theme=dracula)
 
-</div>
+</p>
+
 
 ## Hobbies & Interests
 
