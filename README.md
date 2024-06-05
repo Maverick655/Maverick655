@@ -1,4 +1,6 @@
-# Welcome to My GitHub Profile! 👋
+# Hey, I'm Shashwat Chahal! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=spignelon&color=blueviolet)
 
 ## About Me
 
