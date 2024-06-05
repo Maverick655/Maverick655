@@ -49,7 +49,7 @@ Hi there! I'm Shashwat Chahal, a passionate developer with a love for coding and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick655&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maverick655)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maverick655&layout=compact&theme=radical)](https://git.io/streak-stats)
 
 
 ## Hobbies & Interests
