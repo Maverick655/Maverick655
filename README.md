@@ -45,6 +45,7 @@ Hi there! I'm Shashwat Chahal, a passionate developer with a love for coding and
 
 ## GitHub Stats
 <div align="center">
+  
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maverick655&show_icons=true&theme=radical)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick655&layout=compact&theme=radical)
