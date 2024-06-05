@@ -44,13 +44,30 @@ Hi there! I'm Shashwat Chahal, a passionate developer with a love for coding and
 
 
 ## GitHub Stats
+
 <div align="center">
-  
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maverick655&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick655&layout=compact&theme=radical)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=maverick655&layout=compact&theme=radical)](https://git.io/streak-stats)
+  <table style="width:100%">
+    <tr>
+      <td style="text-align:center; padding: 10px;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=maverick655&show_icons=true&theme=radical" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td style="text-align:center; padding: 10px;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverick655&layout=compact&theme=radical" alt="Top Languages" />
+        </a>
+      </td>
+      <td style="text-align:center; padding: 10px;">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com/?user=maverick655&layout=compact&theme=radical" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
   
   [![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maverick655&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
