@@ -8,7 +8,6 @@ Hi there! I'm Shashwat Chahal, a passionate developer with a love for coding and
 
 - 🌍 Location: Delhi, India
 - 🎓 Education: Computer Science student
-- 📫 How to Reach Me: shashwatchahal007@gmail.com
 
 ## My Skills
 
