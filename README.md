@@ -19,7 +19,7 @@ Hi there! I'm Shashwat Chahal, a passionate developer with a love for coding and
 
 ## Projects
 
-### Project 1: House-Price-Predictor
+### Project 1: House Price Predictor
 
 **Description**: It is a project on predicting the House Price using Linear Regression on a dataset.
 
@@ -27,7 +27,7 @@ Hi there! I'm Shashwat Chahal, a passionate developer with a love for coding and
 
 **Repository**: (https://github.com/Maverick655/House-Price-Predictor)
 
-### Project 2: Heart-Attack-Predictor
+### Project 2: Heart Attack Predictor
 
 **Description**: Creating a classifier that can predict how likely a patient can get a heart stroke on a given dataset that includes all the medical conditions of a patient.
 
@@ -35,7 +35,7 @@ Hi there! I'm Shashwat Chahal, a passionate developer with a love for coding and
 
 **Repository**: (https://github.com/Maverick655/Heart-Attack-Predictor)
 
-### Project 3: First-Order-Theorem-Proving
+### Project 3: First Order Theorem Proving
 
 **Description**: It's a Machine Learning project on first order theorem proving using Classification and Regression.
 
