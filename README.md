@@ -68,7 +68,7 @@ Hi there! I'm Shashwat Chahal, a passionate developer with a love for coding and
 
   ## LeetCode Stats
   
-  ![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=shashwat4587)
+  ![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=<shashwat4587>)
 
   ![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maverick655&theme=dracula)
 
